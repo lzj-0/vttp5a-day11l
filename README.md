@@ -1,1 +1,5 @@
-"# vttp5a-day11l" 
+Concepts:
+- API
+- Redis
+- Docker
+- JsonP
